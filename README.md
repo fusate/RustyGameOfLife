@@ -1,0 +1,1 @@
+This program is just a basic simulation of [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).  I used it while learning rust for the first time, so it will definitely not be the highest quality code.  
